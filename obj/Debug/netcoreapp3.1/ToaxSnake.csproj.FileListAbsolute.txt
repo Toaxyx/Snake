@@ -1,0 +1,15 @@
+E:\Projet VS\ToaxSnake\bin\Debug\netcoreapp3.1\ToaxSnake.exe
+E:\Projet VS\ToaxSnake\bin\Debug\netcoreapp3.1\ToaxSnake.deps.json
+E:\Projet VS\ToaxSnake\bin\Debug\netcoreapp3.1\ToaxSnake.runtimeconfig.json
+E:\Projet VS\ToaxSnake\bin\Debug\netcoreapp3.1\ToaxSnake.runtimeconfig.dev.json
+E:\Projet VS\ToaxSnake\bin\Debug\netcoreapp3.1\ToaxSnake.dll
+E:\Projet VS\ToaxSnake\bin\Debug\netcoreapp3.1\ToaxSnake.pdb
+E:\Projet VS\ToaxSnake\obj\Debug\netcoreapp3.1\ToaxSnake.csprojAssemblyReference.cache
+E:\Projet VS\ToaxSnake\obj\Debug\netcoreapp3.1\ToaxSnake.Form1.resources
+E:\Projet VS\ToaxSnake\obj\Debug\netcoreapp3.1\ToaxSnake.csproj.GenerateResource.cache
+E:\Projet VS\ToaxSnake\obj\Debug\netcoreapp3.1\ToaxSnake.AssemblyInfoInputs.cache
+E:\Projet VS\ToaxSnake\obj\Debug\netcoreapp3.1\ToaxSnake.AssemblyInfo.cs
+E:\Projet VS\ToaxSnake\obj\Debug\netcoreapp3.1\ToaxSnake.csproj.CoreCompileInputs.cache
+E:\Projet VS\ToaxSnake\obj\Debug\netcoreapp3.1\ToaxSnake.dll
+E:\Projet VS\ToaxSnake\obj\Debug\netcoreapp3.1\ToaxSnake.pdb
+E:\Projet VS\ToaxSnake\obj\Debug\netcoreapp3.1\ToaxSnake.genruntimeconfig.cache
